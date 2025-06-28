@@ -19,6 +19,6 @@ int main() {
             cout << z << endl;
         } else {
             cout << X[i] << endl;
-        }
+        } 
     }
 }
