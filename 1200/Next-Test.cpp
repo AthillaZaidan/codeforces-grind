@@ -11,7 +11,7 @@ int main(){
         s.insert(temp);
     }
 
-    for (int i = 1; i <= 3000; i++){
+    for (int i = 1; i <= 3001; i++){
         if(s.find(i) == s.end()){
             cout << i << endl;
             return 0;
