@@ -1,0 +1,11 @@
+main
+main.exe
+main.out
+
+
+
+*.o
+*.obj
+*.gch
+*.log
+*.stackdump
